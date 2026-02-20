@@ -35,15 +35,15 @@ Dropout for regularization
 Softmax activation for classification
 
 🚀 How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/Transfer-Learning-For-Identifying-Rotten-Fruits-And-Vegetables.git
-cd Transfer-Learning-For-Identifying-Rotten-Fruits-And-Vegetables
-2️⃣ Install Dependencies
+Install Dependencies
 pip install -r requirements.txt
-3️⃣ Train the Model (Optional)
+
+Train the Model (Optional)
 python train_model.py
-4️⃣ Run the Flask App
+
+Run the Flask App
 python app.py
+
 Open in browser:
 http://127.0.0.1:5000/
 
